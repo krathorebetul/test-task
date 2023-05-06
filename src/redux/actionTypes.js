@@ -1,0 +1,2 @@
+export const SUBMIT_USER_DATA = 'SUBMIT_USER_DATA';
+export const LOAD_USER_DATA="LOAD_USER_DATA";
